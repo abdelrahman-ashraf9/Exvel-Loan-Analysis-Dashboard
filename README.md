@@ -1,5 +1,5 @@
 # Excel Loan Analysis Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png) 
 ##  Project Overview
 This project is an interactive Excel Dashboard built to analyze loan data using Pivot Tables, Pivot Charts, Slicers, and Excel formulas.
 
