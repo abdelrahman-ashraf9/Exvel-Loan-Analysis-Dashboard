@@ -35,7 +35,13 @@ This project is an interactive Excel Dashboard built to analyze loan data using 
 - Interactive Reporting
 - KPI Cards
 - Pivot Tables & Charts
+- 
+##  Key Insights
 
+- Auto Loan generated the highest sales among all products.
+- March recorded the highest number of loan cases.
+- Branch performance varied significantly across years.
+- A large portion of the requested amount was not approved, indicating strict approval criteria.
 ---
 
 Created by **Abdelrahman Ashraf**
